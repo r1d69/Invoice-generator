@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceFlow",
+  "description": "Professional Invoice Generator & Management Software with live A4 preview, tax & discount calculation engine, client & service database, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
